@@ -1,8 +1,8 @@
 # Hi I'm Max
 
-I am an incoming Computer Science & Networking student with a strong interest in backend development, Linux, and systems engineering.
+I am an Computer Science & Networking student with a strong interest in backend development, Linux, and systems engineering.
 
-Currently, I am expanding my knowledge of software engineering by learning Linux, Git, and Docker. My goal is to become a backend developer and gain real-world experience while pursuing my degree.
+Currently, I am expanding my knowledge of software engineering by learning Linux, Git, Docker and other tools. My goal is to become a backend developer and gain real-world experience while pursuing my degree.
 
 ## My Current Focus
 
@@ -44,7 +44,7 @@ Currently, I am expanding my knowledge of software engineering by learning Linux
 
 ### PhysNex
 
-A website that teaches physics. This is my project and it is where I practice everything I am learning.
+A website that teaches physics. This is my project and it is where I practice everything I am learning. More about this project in my repository.
 
 - Link to repository https://github.com/Nefhrox/PhysNex
 
