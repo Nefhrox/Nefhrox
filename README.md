@@ -1,69 +1,32 @@
-# Hi I'm Max
+# Hi, I'm Max
 
-I am an Computer Science & Networking student with a strong interest in backend development, Linux, and systems engineering.
+I'm a Computer Science & Networking student focusing on Java backend development. I learn by building practical projects, understanding how they work, and improving them step by step.
 
-Currently, I am expanding my knowledge of software engineering by learning Linux, Git, Docker and other tools. My goal is to become a backend developer and gain real-world experience while pursuing my degree.
+## Current project: StaiNex
 
-## My Current Focus
+[StaiNex](https://github.com/Nefhrox/StaiNex) is a public transport helper designed to warn passengers when their destination is approaching. The initial transport data integration will focus on Chișinău.
 
-- Linux
+The current Java console prototype includes:
 
--  Git and GitHub
+- A trip simulation with selectable starting and destination stops.
+- Configurable warnings one stop away, or both two and one stops away.
+- Stop and route models with input validation and ordered stop sequences.
+- A PostgreSQL schema for stops, routes, and stop positions.
+- JDBC methods for saving route information, linking stops to routes, and reading stops in route order.
 
--  Docker
+Longer-term plans include a Spring Boot API, real transport data, and an Android client with location tracking and notifications.
 
-- The Odin Project
+## Other project: PhysNex
 
-- Backend development basics
+[PhysNex](https://github.com/Nefhrox/PhysNex) is a physics practice website built with JavaScript, HTML, and CSS. It includes topic-based exercises, difficulty levels, search, and browser-based progress tracking.
 
-## Technologies
+I also built scripts to help create exercises and maintain their page templates.
 
-### Programming Languages I've worked with
+## What I'm learning
 
-- Java
+- Java, object-oriented design, and exception handling.
+- SQL, relational data modelling, and JDBC.
+- PostgreSQL transactions and database testing.
+- Linux and development workflows with Git and Maven.
 
-- C#
-
-- JavaScript
-
-- Python
-
-- HTML & CSS
-
-### Tools
-
-- Git
-
-- Docker
-
-- Linux
-
-- VS Code
-
-## My Biggest Project
-
-### PhysNex
-
-A website that teaches physics. This is my project and it is where I practice everything I am learning. More about this project in my repository.
-
-- Link to repository https://github.com/Nefhrox/PhysNex
-
-## Currently learning
-
-- Linux internals
-
-- Bash
-
-- Git
-
-- Docker
-
-- Backend development
-
-## Current goals
-
-- Build actual and useful backend projects
-
-- Learn about the latest development techniques
-
-- Gain commercial experience during university
+I aim to build useful backend applications and gain practical experience alongside my studies.
